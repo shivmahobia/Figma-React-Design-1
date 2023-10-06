@@ -44,43 +44,50 @@ button {
   height: calc(100vh-72px);
 }
 
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
 .hero h1 {
   color: #000;
-  font-family: Poppins;
   font-size: 108px;
-  font-style: normal;
   font-weight: 800;
   line-height: 102px;
 }
 
 .hero p {
   width: 404px;
-  height: 91px;
   color: var(--GRAY, #5a5959);
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
   line-height: normal;
 }
 
 .hero-btn {
-  margin-top: 10px;
   display: flex;
   gap: 40px;
 }
 
-.second-btn{
-  background:transparent;
+.second-btn {
+  background: transparent;
   color: var(--gray);
   border: 1px solid gray;
 }
 
 .shopping p {
-  color: var(--GRAY, #5A5959);
-  font-family: Inter;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
+  font-size: 14px;
+  margin-bottom: 8px;
 }
 
+.brand-icons {
+  display: flex;
+  gap: 16px;
+}
+
+.shiv{
+  align-items: center;
+  display: flex;
+  margin-left: 200px;
+}
