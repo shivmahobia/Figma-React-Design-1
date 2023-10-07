@@ -8,7 +8,7 @@ A Frontend project, Converting Figma Design to React.
 
 <br/>
 <div align="center">
-  <img alt="img" src="/images/figma1.png" />
+  <img alt="img" src="././public/images/figma1.png" />
 </div>
 <br/>
 <br/>
