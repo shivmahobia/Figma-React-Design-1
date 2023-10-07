@@ -6,7 +6,7 @@ const Hero = () => {
         <p>
           YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
           SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
-          SHOES.
+          SHOES
         </p>
         <div className="hero-btn">
           <button>Shop Now</button>
@@ -15,14 +15,16 @@ const Hero = () => {
         <div className="shopping">
           <p>Also Available On</p>
           <div className="brand-icons">
-              <img src="/images/flipkart.png" alt="flipcart-icon"></img>
-              <img src="/images/amazon.png" alt="amazon-icon"></img>
+            <img src="/images/flipkart.png" alt="flipcart-icon"></img>
+            <img src="/images/amazon.png" alt="amazon-icon"></img>
           </div>
         </div>
       </div>
       <div className="hero-image">
         <img src="/images/shoe_image.png"></img>
-        <div className="shiv"><h6>@Shiv Mahobia</h6></div>
+        <div className="shiv">
+          <h6>@Shiv Mahobia</h6>
+        </div>
       </div>
     </main>
   );
