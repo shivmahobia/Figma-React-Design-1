@@ -1,5 +1,14 @@
 # Figma to React Design Project 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What is it?
 
+A Frontend project, Converting Figma Design to React.
 
+## Screenshots
+
+<br/>
+<div align="center">
+  <img alt="img" src="/images/figma1.png" />
+</div>
+<br/>
+<br/>
